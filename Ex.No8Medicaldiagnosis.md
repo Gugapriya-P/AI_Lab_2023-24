@@ -50,7 +50,7 @@ symptom(raju,sore_throat).
 ```
 ### Output:
 
-<img width="904" height="455" alt="image" src="https://github.com/user-attachments/assets/1b54526e-02fd-4861-8a7c-cd033b1d687c" />
+<img width="1289" height="626" alt="image" src="https://github.com/user-attachments/assets/81d3a176-e5ae-4755-8803-ff2f5d7b2713" />
 
 ### Result:
 Thus the simple medical diagnosis system was built sucessfully.
